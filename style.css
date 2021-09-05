@@ -34,6 +34,9 @@ font-weight: 500;
 text-shadow: 1px 1px 10px #000;
 padding-bottom: 1rem;
 }
+.services{
+text-align: center;
+}
 .btn-primary{
 background-color: #6648b1;
 border: 1px solid #6648b1;
@@ -69,7 +72,7 @@ color: #563d7c;
 .fa-css3{
 color: #2163af;
 }
-.fa-code, .fa-bold, .fa-css3{
+.fa-code, .fa-mobile, .fa-bold, .fa-facebook, .fa-css3{
 font-size: 4em;
 margin: 1rem;
 }
